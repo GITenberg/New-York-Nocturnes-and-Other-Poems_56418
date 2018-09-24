@@ -1,5 +1,8 @@
 _repo: New-York-Nocturnes-and-Other-Poems_56418
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56418-h/images/cover.jpg
 creator:
   author:
     agent_name: Roberts, Charles G. D., Sir
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2272
     wikipedia: http://en.wikipedia.org/wiki/Charles_G._D._Roberts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56418#New-York-Nocturnes-and-Other-Poems
 gutenberg_issued: '2018-01-23'
 gutenberg_type: Text
 identifiers:
